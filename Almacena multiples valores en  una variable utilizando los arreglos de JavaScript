@@ -1,3 +1,0 @@
-// Cambia solo el código debajo de esta línea
-const myArray = ["Milton",1];
-console.log(myArray);
